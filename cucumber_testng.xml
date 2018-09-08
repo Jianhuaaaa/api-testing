@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name = "BDD Bank details API Testing" verbose="1" parallel="tests" thread-count="1" configfailurepolicy="continue">
+    <test name="Verify Bank Details API">
+        <classes>
+            <class name = "cucumber.runner.TestRunner">
+            </class>
+        </classes>
+    </test>
+</suite>

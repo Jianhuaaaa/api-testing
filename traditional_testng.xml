@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name = "Bank details API Testing">
+    <test name="Verify Bank Details API">
+        <classes>
+            <class name = "model.BankAPITest">
+            </class>
+        </classes>
+    </test>
+</suite>

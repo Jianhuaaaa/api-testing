@@ -1,0 +1,1 @@
+mvn test -DsuiteXmlFiles=traditional_testng.xml
